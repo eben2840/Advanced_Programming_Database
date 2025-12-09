@@ -1,0 +1,15 @@
+# MongoDB database files
+db/
+_tmp/
+diagnostic.data/
+journal/
+*.wt
+*.lock
+*.bson
+WiredTiger*
+_mdb_catalog.wt
+sizeStorer.wt
+storage.bson
+mongod.lock
+collection-*.wt
+index-*.wt
